@@ -15,7 +15,7 @@ import queue
 import re
 
 # 配置
-USER_NAME = "sshx_session"  # 可以自定义上传文件名称
+USER_NAME = "mitsuha_sshx_session"  # 可以自定义上传文件名称
 UPLOAD_API = "https://file.zmkk.fun/api/upload"
 USER_HOME = Path.home()
 SSH_INFO_FILE = "ssh.txt"  # 可以自定义文件名
